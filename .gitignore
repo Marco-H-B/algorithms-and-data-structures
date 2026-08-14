@@ -1,0 +1,63 @@
+# ==========================================
+# Archivos del Repositorio (Configuración Local)
+# ==========================================
+AGENTS.md
+.clang-format
+
+# ==========================================
+# C / C++ (Binarios y Compilación)
+# ==========================================
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.out
+*.app
+*.ilk
+*.pdb
+*.exp
+build/
+out/
+bin/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+compile_commands.json
+
+# ==========================================
+# Python
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+.env
+
+# ==========================================
+# OS (Windows y macOS)
+# ==========================================
+.DS_Store
+.DS_Store?
+._*
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# ==========================================
+# IDEs y Editores
+# ==========================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
