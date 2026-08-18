@@ -1,3 +1,5 @@
+> 🧠 **Segundo Cerebro:** [[exercism-log-levels|Ficha de Solución]] | [[cpp-strings-parsing|Concepto: Strings y Parsing]] | [[notacion-big-o|Big O]] | [[index|Catálogo Maestro]]
+
 # Help
 
 ## Running the tests
