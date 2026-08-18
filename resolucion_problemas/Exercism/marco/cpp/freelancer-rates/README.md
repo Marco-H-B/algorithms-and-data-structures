@@ -11,6 +11,7 @@ Integers are whole numbers like `0`, `691`, or `-2`.
 Floating point numbers are numbers with a decimal point like `6.02214076`, `0.1`, or `-1.616`.
 
 ## Integers
+
 The following example shows the declaration and initialization of four different variables
 
 ```cpp
@@ -89,7 +90,6 @@ Later, we add `3` eggs for each person, which turns out to be `6` eggs in total.
 Now add this `6` to existing value `0` of the variable `eggs` and assign it back to `eggs`.
 `eggs` will be `6` now.
 The equivalent expression would be `people = people + 2` and `eggs = eggs + (3 * people)`.
-
 
 [cpp_numerical_bases]: https://cplusplus.com/doc/hex/
 

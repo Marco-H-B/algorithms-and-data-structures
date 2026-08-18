@@ -25,15 +25,12 @@ TEST_CASE("it does not round", "[task_1]") {
     REQUIRE_THAT(daily_rate(55.1), Catch::Matchers::WithinRel(440.8, 0.000001));
 }
 
-TEST_CASE("a discount of 10 percent leaves 90 percent of the original price",
-          "[task_2]") {
-    REQUIRE_THAT(apply_discount(140.0, 10),
-                 Catch::Matchers::WithinRel(126.0, 0.000001));
+TEST_CASE("a discount of 10 percent leaves 90 percent of the original price", "[task_2]") {
+    REQUIRE_THAT(apply_discount(140.0, 10), Catch::Matchers::WithinRel(126.0, 0.000001));
 }
 
 TEST_CASE("it doesn't round", "[task_2]") {
-    REQUIRE_THAT(apply_discount(111.11, 13.5),
-                 Catch::Matchers::WithinRel(96.11015, 0.000001));
+    REQUIRE_THAT(apply_discount(111.11, 13.5), Catch::Matchers::WithinRel(96.11015, 0.000001));
 }
 
 TEST_CASE("it's the daily_rate times 22", "[task_3]") {
