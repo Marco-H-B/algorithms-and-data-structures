@@ -25,7 +25,7 @@ algorithms-and-data-structures/
 │   ├── index.md               # 🗂️ Catálogo maestro ([[index]])
 │   ├── log.md                 # 📜 Registro cronológico ([[log]])
 │   ├── autores/               # 👨‍💻 Hubs de Autores ([[marco]], [[enrique]])
-│   ├── lenguajes/             # 🔵 Hubs de Lenguaje ([[marco-c++]], [[enrique-c++]])
+│   ├── lenguajes/             # 🔵 Hubs de Lenguaje ([[marco-cpp]], [[enrique-cpp]])
 │   ├── conceptos/             # 💡 Fichas de conceptos ([[notacion-big-o]], [[cpp-namespaces]], [[cpp-strings-parsing]], [[logica-booleana]], [[aritmetica-y-casting]])
 │   ├── estructuras/           # 🧱 Fichas de contenedores ([[linear-structures]], [[trees-and-bst]], [[hash-tables]])
 │   ├── algoritmos/            # ⚙️ Fichas de algoritmos ([[sorting-algorithms]], [[searching-and-two-pointers]], [[graph-algorithms]])
