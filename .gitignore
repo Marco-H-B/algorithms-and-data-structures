@@ -3,6 +3,8 @@
 # ==========================================
 AGENTS.md
 .clang-format
+wiki/
+.obsidian/
 
 # ==========================================
 # C / C++ (Binarios y Compilación)
