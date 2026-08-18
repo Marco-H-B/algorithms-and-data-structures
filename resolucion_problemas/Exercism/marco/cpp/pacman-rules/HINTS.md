@@ -1,3 +1,5 @@
+> 🧠 **Segundo Cerebro:** [[exercism-pacman-rules|Ficha de Solución]] | [[logica-booleana|Concepto: Lógica Booleana]] | [[notacion-big-o|Big O]] | [[index|Catálogo Maestro]]
+
 # Hints
 
 ## General
