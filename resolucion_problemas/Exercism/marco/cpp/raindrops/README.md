@@ -1,3 +1,5 @@
+> 🧠 **Segundo Cerebro:** [[exercism-raindrops|Ficha de Solución]] | [[aritmetica-y-casting|Concepto: Aritmética y Módulo]] | [[cpp-strings-parsing|Strings]] | [[index|Catálogo Maestro]]
+
 # Raindrops
 
 Welcome to Raindrops on Exercism's C++ Track.
