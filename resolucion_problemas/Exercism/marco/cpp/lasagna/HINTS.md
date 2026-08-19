@@ -1,5 +1,3 @@
-> 🧠 **Segundo Cerebro:** [[exercism-lasagna|Ficha de Solución]] | [[aritmetica-y-casting|Concepto: Aritmética y Casting]] | [[notacion-big-o|Notación Big O]] | [[index|Catálogo Maestro]]
-
 # Hints
 
 ## General
