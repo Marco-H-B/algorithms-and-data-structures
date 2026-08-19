@@ -100,7 +100,7 @@ Your task is to provide a few utilities to quickly calculate daily and monthly r
 
 We first establish a few rules between the freelancer and the project manager:
 
-- The daily rate is 8 times the hourly rate.
+- The daily rate is 8 times the hourly rate. <!-- La tarifa diaria es 8 veces la tarifa por hora -->
 - A month has 22 billable days.
 
 Sometimes, the freelancer is offering to apply a discount on their daily rate (for example for their most loyal customers or not-for-profit customers).
