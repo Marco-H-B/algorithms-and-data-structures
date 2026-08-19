@@ -66,16 +66,6 @@ resolucion_problemas/Exercism/enrique/
 
 ---
 
-## 🧠 Segundo Cerebro y Wiki
-
-Una vez que completes un ejercicio:
-
-- Se generará su ficha correspondiente en [[enrique-cpp|wiki/ejercicios/cpp/enrique/]].
-- La ficha sintetiza el enfoque, análisis Big O ($O(Tiempo)$ y $O(Espacio)$) y patrones de C++ utilizados.
-- Se conectará automáticamente al [[enrique|Hub personal de Enrique]] y al [[index|Catálogo Maestro]].
-
----
-
 ## 🗺️ Ejercicios Recomendados para Iniciar
 
 1. `lasagna` (Sintaxis básica, funciones y constantes)
