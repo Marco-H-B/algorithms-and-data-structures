@@ -1,5 +1,3 @@
-> 🧠 **Segundo Cerebro:** [[exercism-last-will|Ficha de Solución]] | [[cpp-namespaces|Concepto: Namespaces]] | [[aritmetica-y-casting|Aritmética]] | [[index|Catálogo Maestro]]
-
 # Last Will
 
 Welcome to Last Will on Exercism's C++ Track.
