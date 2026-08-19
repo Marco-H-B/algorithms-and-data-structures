@@ -22,6 +22,7 @@ Aquí se recopilan:
 ```text
 teoria_y_recursos/
 ├── README.md                  # 📖 Este documento de guía
+├── guia_git_profesional.md    # 🛠️ Manual de Git profesional y trabajo en equipo (Marco & Enrique)
 ├── apuntes_clase/             # 📝 Notas ordenadas por semana o tema (Semana 01 - Análisis, etc.)
 ├── cheat_sheets/              # ⚡ Fórmulas matemáticas, tablas de Big O, resúmenes de sintaxis
 └── libros_referencia/         # 📖 Guías de estudio basadas en la bibliografía recomendada
